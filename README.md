@@ -8,7 +8,7 @@ kadai00_cheese
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+(https://hosshie.github.io/kadai00_cheese/)
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
